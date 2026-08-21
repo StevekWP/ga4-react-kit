@@ -1,6 +1,6 @@
 {
   "name": "ga4-react-kit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A modern, TypeScript-first, hooks-based Google Analytics 4 integration for React with built-in consent management and an event queue.",
   "type": "module",
   "main": "./dist/index.cjs",
