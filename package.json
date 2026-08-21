@@ -44,7 +44,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/StevekWP/ga4-react-kit"
+    "url": "git+https://github.com/StevekWP/ga4-react-kit.git"
   },
   "publishConfig": {
     "access": "public"
